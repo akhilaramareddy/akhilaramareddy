@@ -11,7 +11,8 @@ Welcome to my GitHub! I'm a dedicated Data Analyst with a passion for uncovering
   - Bachelor of Technology in Civil Engineering from Bapatla Engineering College, India
 
 #### Certifications:
-  - Azure Fundamentals
+  - Microsoft Certified -Azure Fundamentals
+  - Microsoft Certified -Azure Data Engineer Associate
 
 #### Leadership:
   - Vice-President of the Data Science Club at The University of Texas at Arlington
