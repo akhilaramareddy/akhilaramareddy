@@ -69,8 +69,8 @@ Santa Clarita, Texas, USA
 ---
 
 ### 📬 Let’s Connect  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[Email](mailto:your.email@example.com)
+[LinkedIn] - https://www.linkedin.com/in/akhhila-reddy/
+[Email] - akhilaramareddy@gmail.com
 
 -----
 
