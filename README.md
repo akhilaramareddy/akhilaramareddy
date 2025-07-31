@@ -48,6 +48,15 @@ I believe in building solid foundations — clean data, reliable systems, and me
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+#### 📊 Data Science & Visualization  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)    
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)  
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+
 ### 📊 Data Science Toolkit
 
 | 📚 Techniques                | 🔍 Focus Areas                          | 🧰 Tools Used                                      |
