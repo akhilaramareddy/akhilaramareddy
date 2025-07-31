@@ -69,8 +69,11 @@ Santa Clarita, California, USA
 ---
 
 ### 📬 Let’s Connect  
-[LinkedIn] - https://www.linkedin.com/in/akhhila-reddy/
-[Email] - akhilaramareddy@gmail.com
+### 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AKHILA_REDDY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhhila-reddy/)  
+[![Email](https://img.shields.io/badge/Email-akhilaramareddy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilaramareddy@gmail.com)
+
 
 -----
 
