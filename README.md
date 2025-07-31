@@ -9,7 +9,14 @@ I believe in building solid foundations — clean data, reliable systems, and me
 
 ---
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🚀 About Me
+
+🎓 Master's in Information Systems @ University of Texas at Arlington  
+💼 Former Data Integration Engineer, worked on large-scale e-commerce and logistics data pipelines  
+🛠️ Designed ETL workflows and built dashboards to support real-time reporting, inventory optimization, and business decisions  
+📊 Passionate about turning messy data into clear, actionable insights that drive smarter decisions  
+📉 Skilled in analyzing trends, identifying KPIs, and uncovering insights using SQL, Python, and visualization tools like Power BI
+
 
 <!--
 **akhilaramareddy/akhilaramareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
