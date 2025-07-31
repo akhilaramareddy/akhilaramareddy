@@ -17,6 +17,14 @@ I believe in building solid foundations — clean data, reliable systems, and me
 📊 Passionate about turning messy data into clear, actionable insights that drive smarter decisions  
 📉 Skilled in analyzing trends, identifying KPIs, and uncovering insights using SQL, Python, and visualization tools like Power BI
 
+----
+### 🧰 Tech Stack
+
+**Languages:** Python, SQL, NoSQL, R  
+**Cloud & Big Data:** AWS, Azure, Snowflake, Databricks, Kafka, Spark, Redshift  
+**Databases:** MySQL, PostgreSQL, MongoDB, Oracle  
+**Tools & Orchestration:** Airflow, Docker, Kubernetes, PowerShell, Linux
+
 
 <!--
 **akhilaramareddy/akhilaramareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
