@@ -75,6 +75,6 @@ Santa Clarita, Texas, USA
 -----
 
 ### ⚡ Interests  
-Cricket. Music. Designing. National Parks. Cooking.  
-Proud Indian 🇮🇳 | Team SRH ☀️ | Guitar enthusiast 🎸
+Dancing. Music. Cooking. Designing. Nature walks.  
+Fitness | Big-time foodie 🍲 | Loves remixing playlists 🎶
 
