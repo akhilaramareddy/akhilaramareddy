@@ -51,31 +51,30 @@ I believe in building solid foundations — clean data, reliable systems, and me
 #### 📊 Data Science & Visualization
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 
+-----
 
+### 🧠 Academic Research  
+Worked as a Student Assistant at UT Arlington, supporting analytics on sports data using SAP, Power BI, and SQL — helping clean, transform, and visualize datasets for strategic insights.
 
-### 📊 Data Science Toolkit
+-----
 
-| 📚 Techniques                | 🔍 Focus Areas                          | 🧰 Tools Used                                      |
-|-----------------------------|----------------------------------------|---------------------------------------------------|
-| Statistical Analysis        | Hypothesis Testing, A/B Testing        | Statsmodels, Scipy                                |
-| Machine Learning            | Classification, Regression, PCA        | Scikit-learn, XGBoost, LightGBM                   |
-| Deep Learning               | CNNs, RNNs, Embeddings                  | TensorFlow, Keras, PyTorch                        |
-| Time Series Forecasting     | ARIMA, Prophet, Seasonal Trends         | FB Prophet, Pandas, Numpy                         |
-| Natural Language Processing | Text Classification, Topic Modeling    | NLTK, SpaCy, Transformers, HuggingFace            |
-| Visualization               | EDA, Feature Importance, Trends        | Matplotlib, Seaborn, Plotly, Power BI             |
+### 🧑🏽‍💻 Work Impact  
+At Accenture, contributed to building scalable data pipelines and performed analysis on customer churn and segmentation for an e-commerce client — driving targeted retention strategies.
 
+-----
 
-<!--
-**akhilaramareddy/akhilaramareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Based In  
+Santa Clarita, Texas, USA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let’s Connect  
+[LinkedIn](https://www.linkedin.com/in/your-profile)  
+[Email](mailto:your.email@example.com)
+
+-----
+
+### ⚡ Interests  
+Cricket. Music. Designing. National Parks. Cooking.  
+Proud Indian 🇮🇳 | Team SRH ☀️ | Guitar enthusiast 🎸
+
