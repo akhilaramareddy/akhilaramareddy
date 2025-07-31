@@ -64,7 +64,7 @@ At Accenture, contributed to building scalable data pipelines and performed anal
 -----
 
 ### 🌍 Based In  
-Santa Clarita, Texas, USA
+Santa Clarita, California, USA
 
 ---
 
