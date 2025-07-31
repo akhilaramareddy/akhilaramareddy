@@ -1,10 +1,12 @@
 ## Hi there 👋
+<br/>
 📜 Words of Wisdom  
 Good data doesn’t just inform — it empowers.
 
 Most people chase insights. I chase the *integrity* behind them.  
 A flashy dashboard is useless if the pipeline behind it is broken.  
 I believe in building solid foundations — clean data, reliable systems, and meaningful impact.
+<br/>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
