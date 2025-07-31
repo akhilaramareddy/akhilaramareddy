@@ -12,7 +12,7 @@ I believe in building solid foundations — clean data, reliable systems, and me
 ### 🚀 About Me
 
 🎓 Master's in Information Systems @ University of Texas at Arlington  
-💼 Former Data Integration Engineer, worked on large-scale e-commerce and logistics data pipelines  
+💼 Former Data Integration Engineer @ Accenture, worked on large-scale e-commerce and logistics data pipelines  
 🛠️ Designed ETL workflows and built dashboards to support real-time reporting, inventory optimization, and business decisions  
 📊 Passionate about turning messy data into clear, actionable insights that drive smarter decisions  
 📉 Skilled in analyzing trends, identifying KPIs, and uncovering insights using SQL, Python, and visualization tools like Power BI
@@ -48,6 +48,16 @@ I believe in building solid foundations — clean data, reliable systems, and me
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+### 📊 Data Science Toolkit
+
+| 📚 Techniques                | 🔍 Focus Areas                          | 🧰 Tools Used                                      |
+|-----------------------------|----------------------------------------|---------------------------------------------------|
+| Statistical Analysis        | Hypothesis Testing, A/B Testing        | Statsmodels, Scipy                                |
+| Machine Learning            | Classification, Regression, PCA        | Scikit-learn, XGBoost, LightGBM                   |
+| Deep Learning               | CNNs, RNNs, Embeddings                  | TensorFlow, Keras, PyTorch                        |
+| Time Series Forecasting     | ARIMA, Prophet, Seasonal Trends         | FB Prophet, Pandas, Numpy                         |
+| Natural Language Processing | Text Classification, Topic Modeling    | NLTK, SpaCy, Transformers, HuggingFace            |
+| Visualization               | EDA, Feature Importance, Trends        | Matplotlib, Seaborn, Plotly, Power BI             |
 
 
 <!--
